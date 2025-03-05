@@ -7,7 +7,7 @@
 Você pode vizualizar o projeto a partir do link: https://vgsantana.github.io/Portfolio/
 
 # Sobre o Projeto 🔍
-Portfólio elaborado para cumprimento de projeto do curso de HTML e CSS da Alura em parceria com a Oracle na iniciativa ONE, que busca capacitar profissionais para o mercado de programacao. O projeto consistia em criar um site com duas páginas de apresentacão para empresas que estivessem contratando e poderiam se interessar pelo perfil profissional apresentado.
+Portfólio elaborado para cumprimento de projeto do curso de HTML e CSS da Alura em parceria com a Oracle na iniciativa ONE, que busca capacitar profissionais para o mercado de programacão. O projeto consistia em criar um site com duas páginas de apresentacão para empresas que estivessem contratando e poderiam se interessar pelo perfil profissional apresentado.
 
 # Autor
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/149277458?s=400" width=115><br><sub>Victor Gabriel de Jesus Santana</sub>](https://github.com/vgsantana) |
